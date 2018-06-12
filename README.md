@@ -1,2 +1,2 @@
-# Rc
-Uniting Education Project
+# RC
+Innovation Eco-system Platform.
